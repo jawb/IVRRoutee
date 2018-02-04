@@ -1,0 +1,1 @@
+This project was made as part of the article Building complex IVRs. It covers building an IVR service for an imaginary bus company that offers a special pass for students and wants to use IVR as a notification, validation and payment collection mean. The code in this repo is completely reusable and offer tools to build your custom IVR using Routee API.
